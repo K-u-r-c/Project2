@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2ea76735-0908-4045-b0a3-d5e66c92565e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Buttons.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FPS_Controller.cs" Line="29" Column="9" />
+      <File FileName="Assets/Scripts/Buttons.cs" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project2" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
